@@ -14,3 +14,4 @@ const printProfileData = profileDataArr => {
 };
 
 printProfileData(profileDataArgs);
+console.log('Hello Node!');
